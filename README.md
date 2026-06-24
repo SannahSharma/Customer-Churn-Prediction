@@ -32,6 +32,9 @@ Accuracy: 78.92%
 
 ## Dashboard
 
+<img width="504" height="283" alt="image" src="https://github.com/user-attachments/assets/fe5001d5-4282-44ea-bd34-8b7d73e3e4df" />
+
+
 Power BI dashboard showing:
 - Churn Rate
 - Customer Risk Levels
